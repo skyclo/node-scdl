@@ -1,0 +1,25 @@
+{
+  "name": "node-scdl",
+  "version": "1.0.0",
+  "description": "An easy to use, minimal dependency Soundcloud song downloader.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skyclo/node-scdl.git"
+  },
+  "keywords": [
+    "soundcloud",
+    "downloader",
+    "scdl"
+  ],
+  "author": "Skyclo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Skyclo/node-scdl/issues"
+  },
+  "homepage": "https://github.com/Skyclo/node-scdl#readme",
+  "dependencies": {
+    "phin": "^3.4.1"
+  }
+}
