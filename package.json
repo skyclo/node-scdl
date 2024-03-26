@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Skyclo/node-scdl#readme",
   "dependencies": {
-    "phin": "^3.4.1"
+    "phin": "^4.0.0"
   }
 }
